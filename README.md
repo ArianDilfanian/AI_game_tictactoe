@@ -86,25 +86,11 @@ This project is an advanced implementation of the classic Tic-Tac-Toe game. It f
 
 ## Future Improvements
 
-- Add support for multiplayer mode.
-- Enhance GUI with animations and sound effects.
-- Optimize AI performance for larger grids.
+- Enhance GUI with animations.
 - Implement a scoring system to track wins and losses over multiple rounds.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Acknowledgments
-
-- **CS50 Course**: Inspiration for implementing the Minimax algorithm.
-- **Pygame Community**: For providing excellent documentation and resources.
-
----
 
 ## Contributing
 
