@@ -40,13 +40,13 @@ This project is an advanced implementation of the classic Tic-Tac-Toe game. It f
 1. **Prerequisites**:
 
    - Python 3.7+
-   - Pygame library (Install using `pip install pygame`)
+   - Pygame library version : 2.5.0 (Install using `pip install pygame`)
 
 2. **Clone the Repository**:
 
    ```bash
    git clone https://github.com/ArianDilfanian/AI_game_tictactoe.git
-   cd tictactoe-ai
+   
    ```
 
 3. **Run the Game**:
@@ -84,6 +84,16 @@ This project is an advanced implementation of the classic Tic-Tac-Toe game. It f
 
 ---
 
+## Video
+
+
+
+
+https://github.com/user-attachments/assets/93d50cd2-deed-4b25-b587-0e4b1f7e7832
+
+
+
+
 ## Future Improvements
 
 - Enhance GUI with animations.
@@ -92,9 +102,6 @@ This project is an advanced implementation of the classic Tic-Tac-Toe game. It f
 ---
 
 
-## Contributing
-
-Contributions are welcome! If you’d like to improve this project, feel free to fork the repository and submit a pull request.
 
 ---
 
