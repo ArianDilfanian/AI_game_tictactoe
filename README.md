@@ -45,7 +45,7 @@ This project is an advanced implementation of the classic Tic-Tac-Toe game. It f
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ArianDilfanian/tictactoe-ai.git
+   git clone https://github.com/ArianDilfanian/AI_game_tictactoe.git
    cd tictactoe-ai
    ```
 
